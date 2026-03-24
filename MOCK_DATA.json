@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "first_name": "Obie",
+    "last_name": "Cantwell",
+    "email": "ocantwellrq@cbsnews.com",
+    "gender": "Male",
+    "job_title": "Automation Specialist III",
+    "created_at": "2024-01-10T09:23:00.000Z"
+  },
+  {
+    "id": 2,
+    "first_name": "Lyra",
+    "last_name": "Mendenhall",
+    "email": "l.mendenhall@techcorp.io",
+    "gender": "Female",
+    "job_title": "Senior Product Designer",
+    "created_at": "2024-01-15T11:05:00.000Z"
+  },
+  {
+    "id": 3,
+    "first_name": "Rowan",
+    "last_name": "Ashford",
+    "email": "r.ashford@nexusdev.com",
+    "gender": "Other",
+    "job_title": "Full Stack Engineer",
+    "created_at": "2024-02-01T08:45:00.000Z"
+  },
+  {
+    "id": 4,
+    "first_name": "Priya",
+    "last_name": "Nair",
+    "email": "priya.nair@cloudbase.in",
+    "gender": "Female",
+    "job_title": "DevOps Architect",
+    "created_at": "2024-02-14T14:30:00.000Z"
+  },
+  {
+    "id": 5,
+    "first_name": "Marcus",
+    "last_name": "Delacroix",
+    "email": "m.delacroix@synthwave.fr",
+    "gender": "Male",
+    "job_title": "Machine Learning Engineer",
+    "created_at": "2024-03-03T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "first_name": "Sora",
+    "last_name": "Ikeda",
+    "email": "sikeda@designlabs.jp",
+    "gender": "Female",
+    "job_title": "UX Research Lead",
+    "created_at": "2024-03-18T09:15:00.000Z"
+  },
+  {
+    "id": 7,
+    "first_name": "Kofi",
+    "last_name": "Asante",
+    "email": "k.asante@databridge.gh",
+    "gender": "Male",
+    "job_title": "Data Scientist II",
+    "created_at": "2024-04-05T13:20:00.000Z"
+  },
+  {
+    "id": 8,
+    "first_name": "Elena",
+    "last_name": "Vasilyeva",
+    "email": "e.vasilyeva@coretech.ru",
+    "gender": "Female",
+    "job_title": "Backend Engineer",
+    "created_at": "2024-04-22T07:55:00.000Z"
+  },
+  {
+    "id": 9,
+    "first_name": "Arjun",
+    "last_name": "Mehta",
+    "email": "arjun.mehta@finstack.in",
+    "gender": "Male",
+    "job_title": "Product Manager",
+    "created_at": "2024-05-10T15:40:00.000Z"
+  },
+  {
+    "id": 10,
+    "first_name": "Zara",
+    "last_name": "O'Brien",
+    "email": "z.obrien@greenfield.ie",
+    "gender": "Female",
+    "job_title": "Cloud Infrastructure Engineer",
+    "created_at": "2024-05-29T12:10:00.000Z"
+  },
+  {
+    "id": 11,
+    "first_name": "Theo",
+    "last_name": "Baumann",
+    "email": "theo.b@blocklabs.de",
+    "gender": "Male",
+    "job_title": "Blockchain Developer",
+    "created_at": "2024-06-08T16:30:00.000Z"
+  },
+  {
+    "id": 12,
+    "first_name": "Amara",
+    "last_name": "Diallo",
+    "email": "a.diallo@afritech.sn",
+    "gender": "Female",
+    "job_title": "Security Analyst",
+    "created_at": "2024-06-25T10:45:00.000Z"
+  },
+  {
+    "id": 13,
+    "first_name": "Liam",
+    "last_name": "Fitzgerald",
+    "email": "liam.f@edgecompute.au",
+    "gender": "Male",
+    "job_title": "Solutions Architect",
+    "created_at": "2024-07-11T09:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "first_name": "Mei",
+    "last_name": "Tanaka",
+    "email": "mei.tanaka@pixelcraft.jp",
+    "gender": "Female",
+    "job_title": "Frontend Developer",
+    "created_at": "2024-08-02T11:25:00.000Z"
+  },
+  {
+    "id": 15,
+    "first_name": "Rafael",
+    "last_name": "Carvalho",
+    "email": "r.carvalho@devsquad.br",
+    "gender": "Male",
+    "job_title": "QA Engineer",
+    "created_at": "2024-09-17T14:00:00.000Z"
+  },
+  {
+    "id": 16,
+    "first_name": "Mahesh",
+    "last_name": "S R",
+    "email": "maheshkashyap5416@gmail.com",
+    "gender": "Male",
+    "job_title": "SDE",
+    "created_at": "2026-03-24T02:58:15.072Z"
+  },
+  {
+    "id": 17,
+    "first_name": "Test",
+    "last_name": "Account",
+    "email": "test@gmail.com",
+    "gender": "Male",
+    "job_title": "Software Engineer",
+    "created_at": "2026-03-24T03:07:23.595Z"
+  }
+]
